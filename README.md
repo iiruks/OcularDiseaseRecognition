@@ -1,5 +1,5 @@
 Ocular Disease Recognition using VGG-19
-This project aims to recognize ocular diseases, specifically cataracts, from fundus images using a VGG-19 Convolutional Neural Network (CNN). The model is trained and evaluated on a dataset of preprocessed images. This README provides an overview of the dataset preparation, model training, and evaluation processes.
+This project aims to recognize ocular diseases, specifically cataracts, from fundus images using various Convolutional Neural Network (CNN) models. The models used include VGG-19, ResNet101, DenseNet101, VGG-16, ResNet50, and DenseNet121. This README provides an overview of the dataset preparation, model training, and evaluation processes.
 
 # Table of Contents
 Dataset Preparation
